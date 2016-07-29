@@ -6,5 +6,6 @@ public class ideastu {
         System.out.println("hello world");
         System.out.println("添加dea  提交作者");
         System.out.println("1");
+        System.out.println("2");
     }
 }
