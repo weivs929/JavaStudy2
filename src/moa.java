@@ -30,7 +30,7 @@ public class moa {
 		if (map.get("key").equals("key")) {
 			System.out.print(map);
 		}
-
+		System.out.println("呵呵呵");
 
 		System.out.println(basMap);
 
